@@ -30,6 +30,7 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"bg_space","path":"sprites/bg_space/bg_space.yy",},},
     {"id":{"name":"cat","path":"sprites/cat/cat.yy",},},
+    {"id":{"name":"Golem_1_die","path":"sprites/Golem_1_die/Golem_1_die.yy",},},
     {"id":{"name":"Golem_1_idle","path":"sprites/Golem_1_idle/Golem_1_idle.yy",},},
     {"id":{"name":"spr_alert","path":"sprites/spr_alert/spr_alert.yy",},},
     {"id":{"name":"tile","path":"sprites/tile/tile.yy",},},
